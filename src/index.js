@@ -3,7 +3,7 @@ const app = require('./app.js')
 const mongoose = require('mongoose')
 require('dotenv').config()
 
-const Port=process.env.PORT || 5000 // Retrieve the value of the PORT environment variable
+const Port=process.env.PORT || 3000 // Retrieve the value of the PORT environment variable
 const dburl=process.env.DATABASE_URL // Retrieve the value of the DATABASE_URL environment variable
 
 // Parse JSON bodies (as sent by API clients)
