@@ -7,7 +7,7 @@ This is a Node.js application that provides RESTful APIs to get YouTube subscrib
 ### 1. GET /subscribers
 This API endpoint returns a list of YouTube subscribers with their subscriber count.  
 
-Request URL: `http://localhost:3000/subscribers`
+Request URL: `http://localhost:3000/subscribers`  
 Request Method: GET
 
 ### 2. GET /subscribers/names
