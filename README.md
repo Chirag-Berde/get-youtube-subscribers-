@@ -34,6 +34,7 @@ Request Method: GET
 5. The application will be running on `http://localhost:3000` 
 
 ### Dependencies
+ - nodejs: "^16.18.0"
  - express: "^4.17.1"
  - nodemon: "^2.0.22"
  - mongoose: "^5.10.15"
