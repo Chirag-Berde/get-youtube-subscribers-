@@ -40,6 +40,7 @@ The API may return the following error codes along with error messages:
 
 | Error Code | Description |
 | --- | --- |
+| 200 | Response Ok |
 | 400 | Bad Request |
 | 404 | Not Found |
 | 500 | Internal Server Error |
